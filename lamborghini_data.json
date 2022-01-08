@@ -1,6 +1,1112 @@
 {
-    "query": {
-      "number": 1,
-      "salad": "potato"
-    }
+    "data": [
+      {
+        "title": "Lamborghini Diablo (MY 1990) – Specs & Performance",
+        "infos": [
+          "The Lamborghin Diablo was launched in 1990 as the successor to the iconic Lamborghini Countach. Chrysler bought Lamborghini in 1987 and the Diablo was developed under their stewardship. The Diablo name came from the Spanish word for “Devil\". Like the Countach before it, the Diablo shape was penned by Marcello Gandini. The design elements included the slant front end, steeply raked windscreen and scissors doors. However, the final design was refined by Chrysler's studio in the USA, smoothened all sharp edges and corners, improved cooling and aerodynamics. Overall, the Diablo design looks amazing even now over 30 years after its initial launch.",
+          "From a platform perspective, the Diablo was merely an enhancement of the Countach. It still had a spaceframe chassis, aluminium body and transmission layout that was largely unchanged, with the exception that the new car gained more length, width and wheelbase as well as a touch more cabin space. As a result, a standard Diablo tipped the scale at more than 260 lbs heavier than the last Countach.",
+          "Straightline performance was never a problem to the Diablo, because it's epic 5.7-litre V12 produced close to 500 horsepower. It recorded 0-60mph in 4.5 second and a top speed of 202 mph by independent magazines. It was the fastest production supercar of its time (not for very long in fairness). The V12 was always the jewel of the crown. Powerful and sharp throttle response aside, it impressed most with its thundering roar, a sound we will never tire of. Louder and rawer than Ferrari’s V12, the Lamborghini engine noise was still the top of the supercar bunch. Handling was average at best, the Diablo just too heavy, too wide, too bulky to handle. Several updates over the years improved the Diablo immensely and by the end of its production run it was considered a legitimate top-tier supercar. Below, we take you through the models, history and specs as well as anything else you could ever want to know about the Lamborghini Diablo."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2007/04/LAMBORGHINI-DIABLO-MY1990-Main-Image.png",
+          "https://www.lambocars.com/wp-content/uploads/2020/11/dia2.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2020/11/dia6.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2020/11/dia14.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2020/11/dia16.jpg"
+        ],
+        "general": {
+          "type": "Diablo",
+          "yearsBuilt": "1990 – 1998",
+          "production": "900 units",
+          "chassisnr": "January 21; Hotel de Paris, Monte Carlo, Lamborghini day 2",
+          "presentation": "March 1698 Geneva Auto Show",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4460 mm / 175.28 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1105 mm / 43.43 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "115 mm / 4.52 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "880 mm / 34.58 in",
+          "weight": "1576 kg / 3475 lbs",
+          "distribution": "41/59 % front / rear"
+        },
+        "chassis": {
+          "structure": "High-resistance steel alloy and carbon fiber.",
+          "body": "Aluminum alloy and hand layup composite materials (cx : 0.31)",
+          "suspension": "Independent front & rear with parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry.",
+          "brakes": "All-wheel Brembo ventilated disc brakes with 4 calipers on the front and 2 calipers on the rear ones, with an H-type hydraulic circuit, and servo-assistance.",
+          "front": "330 mm / 12.97 in",
+          "rear": "284 mm / 11.16 in",
+          "steeringType": "Unassisted mechanical rack and pinion.",
+          "turningCircle": "12.55 m / 41 ft",
+          "frontTireSize": "245/40 ZR 17",
+          "rearTireSize": "335/35 ZR 17",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×17 inch",
+          "rearWheel": "13×17 inch",
+          "typeOfWheel": "Three-piece OZ-Racing aluminum light-alloy",
+          "rearSpoiler": "Not at first, but later an option"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block, mid mounted (longitudal), rear wheel drive",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "comprRatio": "10.0",
+          "maxPower": "492 Bhp at 7000 rpm",
+          "maxTorque": "580 Nm at 5200 rpm",
+          "coolingSystem": "Pressurized circuit",
+          "ignition": "Electronic with integrated fuel injection",
+          "emissionContr": "Three way catalytic convertors with lambda feedback",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Original L.I.E. Lamborghini electronic sequential multi-point injection",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V",
+          "fuelConsumption": "16 Lit/100 Km"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, ZF final drive with limited-slip differential",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 97 Km/h or 60 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 148 Km/h or 92 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 200 Km/h or 124 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 255 Km/h or 158 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 325 Km/h or 202 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 106 Km/h or 66 Mph",
+          "finalDriveRatio": "bevel gear type, limited slip 45% Ratio : 1:2.41:1"
+        },
+        "performance": {
+          "topSpeed": "328 Km/h / 204 Mph",
+          "0–100Km/h": "4.09 sec.",
+          "standingKm": "20.70 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 239,000",
+          "currentValue": "$ 50,600 – $ 96,800"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo VT -Specs & Performance",
+        "infos": [
+          "Finally in 1993, after 3 years of the 2WD Diablo production, Automobili Lamborghini SpA presented the next step in Italian super cars.",
+          "The Diablo VT, a four-wheel drive evolution of the Diablo, well not exactly, the VT stood for ‘Viscous Traction’, and meant that part of the power could be moved to the front wheels, when the rear ones lost their grip.",
+          "However, that was not the only difference between the Diablo and the Diablo VT, the latter became much more refined than the earlier 2 Wheel Drive version, among others the air circulation within the passenger’s compartment was modified to have the standard air conditioning perform better.",
+          "The VT had standard power-steering and used electronically adjustable Koni shock absorbers, with four settings chosen manually or by the computer.",
+          "Because of the power transfer to the front wheels (maximum 25%), the front tires had to be made smaller, now 235/40 ZR 17 Pirelli P Zero’s were mounted instead of the 245’s on the standard Diablo, the rear tires remained the massive 335/35 ZR 17 ones as used on the two-wheel drive version.",
+          "The main exterior difference between the Diablo and the VT version were the air intakes underneath the front warning lights to improve the brake cooling, and the larger air intakes in front of the rear wheels, although these modifications later found their way to the Diablo 2wd too, making the exterior difference between them only noticeable by the rear mounted ‘VT’ logo.",
+          "On the VT the exterior rear view mirrors were finished in the body color, but these modifications would also appear on the ‘normal’ Diablo according to Automobili Lamborghini SpA, although it was rumored in 1994 that the two-wheel drive Diablo production would be halted in favor of the VT type, fortunately this didn’t happen until late 1998, when another evolution of the Diablo was presented.",
+          "On the inside the Diablo VT got a redesigned dashboard, the big block in the ‘old’ Diablo was removed and a smaller, more refined one was used for the VT, but in the latter it was fixed, while in the early Diablo it could be adjusted in height, when using the necessary tools.",
+          "Less well visible changes included the engine, on the Diablo VT it became surrounded by a carbon fiber case placed in the engine compartment, also the entire appearance of the engine was made neater with a nice cover over the manifolds.",
+          "The timing system was improved to reduce the noise and the engine was kept cooler by redesigning the air intakes.",
+          "The brakes on the VT were also upgraded, to four piston Brembo units instead of the earlier two-piston units.",
+          "The Diablo VT was easier to handle, the ‘normal’ Diablo suffered from over steer when cornering at its limit, but on the VT the steering became much more neutral, less demanding.",
+          "Some early publications stated the rear wing was a way to spot the VT version next to the standard Diablo, but it was still an option on both types, and a very expensive one too, other options included a factory fitted luggage set and an upgraded Alpine stereo system with a remote compact disk changer."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2010/01/Lamborghini-Diablo-VT.png",
+          "https://www.lambocars.com/wp-content/uploads/2005/06/diavt2.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2005/06/diavt4.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2005/06/diavt10.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2005/06/diavt11.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2005/06/diavt19.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2005/06/diavt35.jpg"
+        ],
+        "general": {
+          "type": "Diablo VT",
+          "yearsBuilt": "March 1993 – October 1998",
+          "production": "400 units",
+          "presentation": "March 1993 Geneva Auto Show",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4460 mm / 175.28 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1105 mm / 43.43 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "127 mm / 4.99 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "880 mm / 34.58 in",
+          "weight": "1625 kg / 3583 lbs",
+          "distribution": "43/57 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tube high strength alloy and composite carbon fiber.",
+          "body": "Aluminum alloy and hand layup composite materials with autoclave technology (cx : 0.31)",
+          "suspension": "Independent front & rear with parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry. Electronic, active suspension with automatic and manual control.",
+          "brakes": "All-wheel Brembo ventilated disc brakes with 4 calipers on the front brakes and 2 calipers on the rear ones, and an H-type hydraulic circuit, servo-assistance.",
+          "front": "330 mm / 12.97 in",
+          "rear": "284 mm / 11.16 in",
+          "steeringType": "Power assisted mechanical rack and pinion, 3.2 turns lock to lock.",
+          "turningCircle": "12.55 m / 41 ft",
+          "frontTireSize": "235/40 ZR 17",
+          "rearTireSize": "335/35 ZR 17",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×17 inch",
+          "rearWheel": "13×17 inch",
+          "typeOfWheel": "Three-piece OZ-Racing aluminum light-alloy",
+          "rearSpoiler": "Optional"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block mid mounted (longitudal), Viscous Traction four wheel drive.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "comprRatio": "10.0",
+          "maxPower": "492 Bhp at 7000 rpm",
+          "maxTorque": "580 Nm at 5200 rpm",
+          "coolingSystem": "Pressurized water cooling",
+          "ignition": "Electronic with integrated injection",
+          "fuelConsumption": "16 Lit/100 Km",
+          "emissionContr": "Three way catalytic convertors with oxygen sensors",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Original L.I.E. Lamborghini electronic sequential multi-point injection",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, ZF final drive with limited-slip differential",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 97 Km/h or 60 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 148 Km/h or 92 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 200 Km/h or 124 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 255 Km/h or 158 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 325 Km/h or 202 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 106 Km/h or 66 Mph",
+          "frontDifferential": "bevel gear type, limited slip 25% Ratio 1:2.81:1",
+          "rearDifferential": "bevel gear type, limited slip 45% Ratio : 1:2.41:1"
+        },
+        "performance": {
+          "topSpeed": "328 Km/h / 204 Mph",
+          "0–100Km/h": "4.09 sec.",
+          "standingKm": "20.70 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 239,000",
+          "currentValue": "$ 63,400 – $ 105,100"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo SV – Specs & Performance",
+        "infos": [
+          "On the 1995 Geneva Auto Show, Automobili Lamborghini SpA presented their latest evolution of the Diablo series. The Diablo SV, where the SV stands for Sport Veloce just like it did on the legendary Miura SV 25 years ago.",
+          "Some said the SV was the ultimate Diablo, but with the engine modified to reach 510 horsepower driving the rear wheels only, thing could get scary when using the throttle unwisely on damp roads, I would prefer the Diablo VT version, with some minor modifications like an Affolter body kit or at least the SV style engine cover which looks awesome.",
+          "Back to the SV, this model became the entry-level for the Lamborghini Diablo, if one could call it an entry, it was however the cheapest of the series, but still cost a bundle, not only buying, but the maintenance alone could bankrupt one easily. Each main service for a Diablo cost a small car and don’t even have to think about spinning the rear wheels, with 335 width and 18 inch tall, prices were high. But if you really loved this car like we do, who cares it cost the price of a decent house, every service stop setting you back a bundle, and to impress people you once in a while dropped the accelerator and burned some rubber.",
+          "The SV was still a driving car, not like some other Italian exotics. The seating position was unaltered, but the small dashboard like on the VT was mounted, although the passenger airbag did not come until 1998. At first, the front wheels were only 17 inch, but with larger disk brakes mounted these too became 18 inch versions of the new three-piece, five spoke rims. At the launch, these wheels received a black painted crest, but you could order them to be any color possible, and even chromed, which was very well accepted in the United States.",
+          "The black rear spoiler was mounted standard and incorporated an adjustable centerpiece, a function only real enthusiasts would ever use, it became however optionally available to have this spoiler color-coded with the rest of the car or even finished in Carbon Fiber. Between the rear lights, a new black panel was mounted while the lights themselves were also mounted in black surroundings instead of the red ones on the ‘normal’ Diablo. The rear fog light and the reverse light were lowered into the rear bumper and four oval type exhaust pipes were mounted, the engine cover now incorporated two massive air intakes, which looked like the ones used on the Diablo SE30 Jota cars. They pulled air into the V-12 compartment to keep everything cool in there, the front bumper was also redesigned and two new fog lamps were built into it together with new bigger air-intakes.",
+          "On the inside the standard leather found on the other Diablo became an option instead of the high quality Alcantara was used on the seats and the door panels, the dashboard now used color coded gauges, a rather nice touch to get a more sporty feel inside the car on most cars the ‘SV’ logo was embroidered on the head rest of the seats, during the 1998 production year a driver’s airbag became standard.",
+          "On each side of the car a big ‘SV’ logo was placed on the doors, you could however ask the factory to leave these side panels alone and deliver the decals un-mounted, a very sensible option. Note that in the United States even the VT and later the GT could have decals in the SV-style mounted on the doors.",
+          "Auto König in Germany created a Diablo SVS Sport in 1998, with a twin-turbo engine pumping out over 800 Bhp. Using a race type Brembo braking system, heavy duty racing clutch and an open exhaust system with either two big, or four smaller end-pipes. A lowered sport suspension, stabilizer bars and some modified front and rear bumpers were also available. Even a Carbon Fibre rear wing in an innovative design was possible.",
+          "For the interior a small diameter (270 or 320 mm) steering wheel and carbon fibre dashboard panels were available, as was a smaller type dashboard for the speedometer and rev counter. Exact performance figures were not available however, but with 800 Bhp, top speed and acceleration should be impressive. Pricing for an SV-S was about 30 % over the standard SV price."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2021/03/Lamborghini-Diablo-SV.png",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv2.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv5.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv9.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv15.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv22.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv25.jpg"
+        ],
+        "general": {
+          "type": "Diablo SV",
+          "yearsBuilt": "1995 – 1998",
+          "presentation": "March 1995 Geneva Auto Show",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4470 mm / 175.67 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1105 mm / 43.43 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "140 mm / 5.5 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "890 mm / 34.98 in",
+          "weight": "1576 kg / 3475 lbs",
+          "distribution": "41/59 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tube high strength alloy and composite carbon fiber.",
+          "body": "Aluminum alloy and hand layup composite materials with autoclave technology (cx : 0.31)",
+          "suspension": "Independent front & rear with parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry. Electronic control, auto and manual system.",
+          "brakes": "All-wheel Brembo ventilated disc brakes with 4 calipers and an H-type hydraulic circuit with servo-assistance.",
+          "front": "340 mm / 13.36 in",
+          "rear": "310 mm / 12.18 in",
+          "steeringType": "Power assisted mechanical rack and pinion, 3.2 turns lock to lock.",
+          "turningCircle": "12.55 m / 41 ft",
+          "frontTireSize": "245/40 ZR 17",
+          "rearTireSize": "335/30 ZR 18",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×17 inch",
+          "rearWheel": "13×18 inch",
+          "typeOfWheel": "Three-piece OZ-Racing aluminum light-alloy.",
+          "rearSpoiler": "Standard (black at first, later color coded)"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block with pressed-in liners, mid mounted (longitudal), rear wheel drive.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "comprRatio": "10.0",
+          "maxPower": "510 Bhp at 7100 rpm",
+          "maxTorque": "580 Nm at 5200 rpm",
+          "coolingSystem": "Pressurized water cooling",
+          "ignition": "Electronic with integrated fuel injection",
+          "fuelConsumption": "16 Lit/100 Km",
+          "emissionContr": "‘Twin, three way catalytic convertors with Lambda sensors",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Original L.I.E. Lamborghini electronic sequential multi-point injection. Starting from 1998 a variable Valve Timing System.",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, with a traction control system with four settings. ZF final drive with limited-slip differential.",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 97 Km/h or 60 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 148 Km/h or 92 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 200 Km/h or 124 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 255 Km/h or 158 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 328 Km/h or 204 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 106 Km/h or 66 Mph",
+          "finalDriveRatio": "1.59:1"
+        },
+        "performance": {
+          "topSpeed": "328 Km/h / 204 Mph",
+          "0–100Km/h": "3.90 sec.",
+          "standingKm": "20.80 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 229,900",
+          "currentValue": "$ 85,000 – $ 126,700"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo VT Roadster – Specs & Performance",
+        "infos": [
+          "On the 1992 Geneva Auto Show, Automobili Lamborghini SpA presented a prototype of an open-top version of their flagship, the Diablo Roadster, but it took another three years of work and development to have the Diablo VT Roadster ready for sale.",
+          "It was however a little reworked; it was not quite the same car as the prototype three years earlier. The bodywork was altered; the side-air intakes used a design similar to the one seen on the Diablo SE model, with the two vertical slots leading air onto the rear disk brakes.",
+          "The front spoiler was completely redesigned to distinguish the VT Roadster from it’s ‘normal’ closed counterparts, the fog lights were now separated, two rectangular lights and two circular lights were used instead of the four square units on the closed Diablo. Also, twin air intakes were mounted next to these rectangular lights to guide air onto the front disk brakes.",
+          "The rear bumper used a design similar to the one used for the SE model, this way the backup light and the rear fog lights were built into the bumper, the grille between the rear taillights was also close to the SE styling grille. The VT Roadster now used four oval exhausts instead of the earlier round ones.",
+          "The engine cover needed to be redesigned, together with the bodywork behind both passengers, because that’s were the roof was stored when not in place above the driver. This roof section was made of carbon fiber to keep the weight down, but Lamborghini was going to offer an electric system to open and close the roof. This system would be developed in association with the Swiss Lamborghini importer Affolter (see the GT section). When the roof was stored in the engine lid, it did not remain open when accessing the engine, you would have to put the top back in place when checking the oil.",
+          "The last thing you’d notice on the outside were the specially designed rims, 17 inch tall front and rear, also with the three-piece design, but slightly different from the original Diablo ones. By the way, the Roadster was only available in VT version; an SV Roadster with rear wheel drive was developed by the factory, but only very few were ever made, and all on special order.",
+          "On the inside, the Roadster was much like the latest Diablo VT from which it used the entire dashboard configuration, one thing was unique for the Roadster however, the seats were slightly modified and used a completely different stitching for the seat and backrest. In addition, the leather used was especially selected for the Roadster, since the possibility of rain was always present and the leather would have to resist to direct sunlight too when driving top-less, for which the Roadster was intended of course."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2021/03/Lamborghini-Diablo-VT-Roadster.png",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr5.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr7.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr10.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr12.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr17.jpg"
+        ],
+        "general": {
+          "type": "Diablo VT Roadster",
+          "yearsBuilt": "December 1995 – October 1998",
+          "production": "200 units",
+          "chassisnr": "estimated at about 200",
+          "presentation": "December 1995, Bologna Auto Show",
+          "typeOfCar": "Two door, two seater open car, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4470 mm / 175.67 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1115 mm / 43.82 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "140 mm / 5.5 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "890 mm / 34.98 in",
+          "weight": "1625 kg / 3583 lbs",
+          "distribution": "47/53 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tube high strength alloy and composite carbon fiber.",
+          "body": "Aluminum alloy and hand layup composite materials with autoclave technology (cx : 0.31)",
+          "suspension": "Independent front & rear with parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry. Electronic, active suspension with automatic and manual control.",
+          "brakes": "All-wheel Brembo ventilated disc brakes with an H-type hydraulic circuit and servo-assistance.",
+          "front": "330 mm / 12.97 in",
+          "rear": "310 mm / 12.18 in",
+          "steeringType": "Power assisted mechanical rack and pinion, 3.2 turns lock to lock.",
+          "turningCircle": "12.55 m / 41 ft",
+          "frontTireSize": "235/40 ZR 17",
+          "rearTireSize": "335/35 ZR 17",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×17 inch",
+          "rearWheel": "13×17 inch",
+          "typeOfWheel": "Three-piece OZ-Racing aluminum light-alloy",
+          "rearSpoiler": "Optional"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block mid mounted (longitudal), Viscous Traction four wheel drive.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "comprRatio": "10.0",
+          "maxPower": "492 Bhp at 7000 rpm",
+          "maxTorque": "580 Nm at 5200 rpm",
+          "coolingSystem": "Pressurized water cooling",
+          "ignition": "Electronic with integrated injection",
+          "fuelConsumption": "16 Lit/100 Km",
+          "emissionContr": "Three way catalytic convertors with oxygen sensors",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Original L.I.E. Lamborghini electronic sequential multi-point injection",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, ZF final drive with limited-slip differential",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 97 Km/h or 60 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 148 Km/h or 92 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 200 Km/h or 124 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 255 Km/h or 158 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 325 Km/h or 202 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 106 Km/h or 66 Mph",
+          "frontDifferential": "bevel gear type, limited slip 25% Ratio 1:2.81:1",
+          "rearDifferential": "bevel gear type, limited slip 45% Ratio : 1:2.41:1"
+        },
+        "performance": {
+          "topSpeed": "328 Km/h / 204 Mph",
+          "0–100Km/h": "4.09 sec.",
+          "standingKm": "20.70 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 249,000",
+          "currentValue": "$ 84,400 – $ 142,300"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo VT MY1999 – Specs & Performance",
+        "infos": [],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2010/01/LAMBORGHINI-DIABLO-VT-1999.png",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavt991.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavt994.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavt997.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavt998.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavt9914.jpg"
+        ],
+        "general": {
+          "type": "Diablo VT MY1999",
+          "yearsBuilt": "October 1998 – January 2000",
+          "presentation": "October 1998, Paris Auto Show",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4470 mm / 175.67 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1105 mm / 43.43 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "140 mm / 5.5 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "880 mm / 34.58 in",
+          "weight": "1625 kg / 3583 lbs",
+          "distribution": "43/57 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tube high strength alloy and composite carbon fiber.",
+          "body": "Aluminum alloy and hand layup composite materials with autoclave technology (cx : 0.31)",
+          "suspension": "Independent front & rear with parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry. Electronic shock absorber system with automatic and manual control system.",
+          "brakes": "All-wheel Brembo ventilated and perforated disc brakes with aluminium alloy four cylinder calipers. An H-type hydraulic circuit, servo-assistance and a Kelsey Hays / Lucas derivered ABS were standard issue.",
+          "front": "365 mm / 14.34 in",
+          "rear": "335 mm / 13.17 in",
+          "steeringType": "Power assisted mechanical rack and pinion, 3.2 turns lock to lock.",
+          "turningCircle": "13 m / 43 ft",
+          "frontTireSize": "235/35 ZR 18",
+          "rearTireSize": "335/30 ZR 18",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×18 inch",
+          "rearWheel": "13×18 inch",
+          "typeOfWheel": "Three-piece OZ-Racing aluminum light-alloy",
+          "rearSpoiler": "Optional"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block mid mounted (longitudal), Viscous Traction four wheel drive.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "intakeSystem": "Variable valve timing, electronically controlled.",
+          "comprRatio": "10.0",
+          "maxPower": "530 Bhp at 7100 rpm",
+          "maxTorque": "605 Nm at 5500 rpm",
+          "coolingSystem": "Pressurized water cooling with two radiator and one oil cooler.",
+          "ignition": "Electronic with integrated injection",
+          "fuelConsumption": "16 Lit/100 Km",
+          "emissionContr": "‘Three way catalytic convertors with oxygen sensors",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Original L.I.E. Lamborghini electronic sequential multi-point injection",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, ZF final drive with limited-slip differential.",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 98 Km/h or 61 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 149 Km/h or 93 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 202 Km/h or 125 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 256 Km/h or 159 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 335 Km/h or 208 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 107 Km/h or 66 Mph",
+          "frontDifferential": "bevel gear type, limited slip 25% Ratio 1:2.81:1",
+          "rearDifferential": "bevel gear type, limited slip 45% Ratio : 1:2.41:1"
+        },
+        "performance": {
+          "topSpeed": "335 Km/h / 208 Mph",
+          "0–100Km/h": "3.95 sec.",
+          "standingKm": "20.30 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 248,700",
+          "currentValue": "$ 101,100 – $ 145,300"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo VT Roadster MY1999 – Specs & Performance",
+        "infos": [
+          "During the Paris Auto show in October 1998, Automobili Lamborghini SpA presented an evolution of their Diablo series, the car had been redesigned to keep up with the current trends and also to set it apart from the earlier Diablo.",
+          "Naturally the VT Roadster was also modified for the 1999 model year, like the other Diablo in the range, the front received new, fixed headlight units while the wheels became 18-inch, to be able to cover the enlarged perforated disk brakes. From 1999 a Lucas derived ABS system by Kelsey Hays was used on all Diablo, so stopping the Devil at high speeds became a little less frightening.",
+          "The interior of the Roadster was redesigned into the MY 1999 specifications, the steering wheel used an integrated airbag and the passenger side airbag was neatly integrated into the dashboard, a top array of indicators were located above the standard speedometer mounted in a new console.",
+          "The 1999 modifications also included an increase of power-output from 492 to 530 Bhp, perhaps an academic value but surely noticeable by the experienced driver, the entire engine management system was modified, these new engines could be recognized by the ‘Valve Timing Management’ inscription on the central cover over the intake manifolds.",
+          "Since this would become the final evolution of the Diablo VT Roadster it became an instant collector’s item, these were the finest driving Diablo ever and with the added bonus of open-top driving it was one of the most desirable cars made.",
+          "As on the previous edition Roadster it was possible to have the rear wing installed as an option, although on the SV and VT this seems a good idea, on the Roadster I don’t like it very much.",
+          "On the 2000 Detroit Auto Show, the Diablo 6.0 was presented and the production for the VT Roadster was halted, together with the SV production. At the beginning of 2000, a limited production run of 30 Millennium Roadsters were built, after that all production efforts went into the Diablo VT and development of the Diablo successor.",
+          "Automobili Lamborghini SpA intends to have a new Roadster ready by 2003, of course this one will be based on the successor to the current Diablo, which is still to be presented at the 2001 Geneva Auto Show."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2021/03/Lamborghini-Diablo-VT-Roadster-1999.png",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr991.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr994.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr997.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr998.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diavtr9910.jpg"
+        ],
+        "general": {
+          "type": "Diablo VT Roadster MY1999",
+          "yearsBuilt": "October 1998 – February 2000",
+          "production": "100 units",
+          "presentation": "Paris Mondial de l’Automobile in October 1998",
+          "typeOfCar": "Two door, two seater open car, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4470 mm / 175.67 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1115 mm / 43.82 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "140 mm / 5.5 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "890 mm / 34.98 in",
+          "weight": "1625 kg / 3583 lbs",
+          "distribution": "43/57 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tubes in high strength alloy and carbon fibre composite panels.",
+          "body": "Aluminum alloy and hand layup composite materials with autoclave technology (cx : 0.31)",
+          "suspension": "Independent front & rear with parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry. Electronic shock absorber system with automatic and manual control system.",
+          "brakes": "All-wheel Brembo ventilated and perforated disc brakes with aluminium alloy four cylinder calipers. An H-type hydraulic circuit, servo-assistance and a Kelsey Hays / Lucas derivered ABS were standard issue.",
+          "front": "355 mm / 13.95 in",
+          "rear": "335 mm / 13.17 in",
+          "steeringType": "Power assisted mechanical rack and pinion, 3.2 turns lock to lock.",
+          "turningCircle": "12.55 m / 41 ft",
+          "frontTireSize": "235/35 ZR 18",
+          "rearTireSize": "335/30 ZR 18",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×18 inch",
+          "rearWheel": "13×18 inch",
+          "typeOfWheel": "Three-piece OZ-Racing aluminum light-alloy",
+          "rearSpoiler": "Optional"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block mid mounted (longitudal), Viscous Traction four wheel drive.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "intakeSystem": "Variable valve timing, electronically controlled.",
+          "comprRatio": "10.0",
+          "maxPower": "530 Bhp at 7100 rpm",
+          "maxTorque": "605 Nm at 5500 rpm",
+          "coolingSystem": "Pressurized water cooling with two radiator and one oil cooler.",
+          "ignition": "Electronic with integrated injection",
+          "fuelConsumption": "16 Lit/100 Km",
+          "emissionContr": "Dual, three way catalytic convertors with Lambda oxygen sensors.",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Integrated L.I.E. Lamborghini electronic sequential phased multi-point injection with a variable Valve Timing System.",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, ZF final drive with limited-slip differential.",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 98 Km/h or 61 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 149 Km/h or 93 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 202 Km/h or 125 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 256 Km/h or 159 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 335 Km/h or 208 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 107 Km/h or 66 Mph",
+          "frontDifferential": "bevel gear type, limited slip 25% Ratio 1:2.81:1",
+          "rearDifferential": "bevel gear type, limited slip 45% Ratio : 1:2.41:1"
+        },
+        "performance": {
+          "topSpeed": "335 Km/h / 208 Mph",
+          "0–100Km/h": "3.95 sec.",
+          "standingKm": "20.30 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 286,300",
+          "currentValue": "$ 148,800 – $ 274,000"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo SV MY1999 – Specs & Performance",
+        "infos": [
+          "As with all Diablo, starting from 1999 the pop-up headlight units were replaced by glass-covered fixed ones.",
+          "In addition, the interior redesign for the 1999 model was used, the seats were a little different and dual airbags became standard, the passenger airbag neatly built into the dashboard this time. Engine power climbed to 530 Bhp on all models and the entire Diablo series received 18 inch wheels and bigger perforated disk brakes front and rear with a Kelsey Hays ABS system using multiple sensors as standard issue.",
+          "As with every Diablo built in Sant’Agata, the engine was still completely finished by one person only, being completely responsible for it, the space tube chassis was constructed by Marchesi in Modena while the aluminum panels used for the front hood, the doors and the front fenders were supplied by Golden Car in Cuneo who also worked for Maserati. The composite body panels used for the engine cover and the bumpers were made inside the Lamborghini factory; they even have a complete Autoclave system installed to construct composite material based panels.",
+          "The cylinder heads used for the massive V-12 engine were finished at Lamborghini but Fonderia Scacchetti made the base for them, the crankshaft was still cast in one solid billet and then made into the high finished item built into the heart of the roaring engine.",
+          "Once the engine was finished it was tested on a test bed, outside of the car it would be built into, only after the engine was fully tested it was mounted in the final car. Each engine was completed on order for one specific car, so you could check serial numbers to see if a second hand Lamborghini still had the original engine or if it was replaced. This way customers could order different compression ratio’s on their car, and even different gear ratio’s were possible. Three gear ratios were ‘standard’, a special one to obtain a higher top speed, the normal one and a special one for red light racing, the top speed was a little lower but the acceleration was faster.",
+          "Once the engine was finished it was tested on a test bed, outside of the car it would be built into, only after the engine was fully tested it was mounted in the final car. Each engine was completed on order for one specific car, so you could check serial numbers to see if a second hand Lamborghini still had the original engine or if it was replaced. This way customers could order different compression ratio’s on their car, and even different gear ratio’s were possible. Three gear ratios were ‘standard’, a special one to obtain a higher top speed, the normal one and a special one for red light racing, the top speed was a little lower but the acceleration was faster.",
+          "By the way, the 1999 engine type was recognizable by an inscription on the central cover over the air intakes on the engine; the new engine said ‘Valve Timing Management’. These 1999 type V-12 engines managed to reach 530 Bhp instead of the earlier 510 Bhp.",
+          "After your Diablo was finished, it was taken out on the road three times, each session about 60 Kilometres in length, to check if everything was correct. These testing sessions were used to modify the suspension and roll bar settings and to alter the engine management system if needed. So it was very normal to get a brand new Diablo with already some ‘delivery-miles’ on the counter, which in case of the SV model was finished in white using black digits.",
+          "The Diablo SV 1999 was actually one of the final evolutions before the Diablo GT was built, but it still used the famous signature of Marcello Gandini on the right side.",
+          "Strangely enough, the Diablo SV production was halted for the production year 2000, only the Diablo VT 6.0-Liter remained in production."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2010/01/Lamborghini-Diablo-SV-MY1999.png",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv991.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv994.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv997.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv9915.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diasv9920.jpg"
+        ],
+        "general": {
+          "type": "Diablo SV MY1999",
+          "yearsBuilt": "October 1998 – December 1999",
+          "production": "100 units",
+          "chassisnr": "estimated at about 100 (25 were imported into the United States)",
+          "presentation": "Paris Mondial de l’Automobile in October 1998",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4470 mm / 175.67 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1115 mm / 43.82 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "140 mm / 5.5 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "890 mm / 34.98 in",
+          "weight": "1530 kg / 3374 lbs",
+          "distribution": "41/59 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tube high strength alloy and composite carbon fiber.",
+          "body": "Aluminum alloy and hand lay-up composite materials with autoclave technology (cx : 0.31)",
+          "suspension": "Independent front & rear double wishbones, coil springs. Parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry. Electronic shock absorber system with automatic and manual control.",
+          "brakes": "All-wheel Brembo ventilated and perforated disc brakes with aluminium alloy four cylinder calipers, an H-type hydraulic circuit, servo-assistance and a Kelsey Hays ABS.",
+          "front": "355 mm / 13.95 in",
+          "rear": "335 mm / 13.17 in",
+          "steeringType": "Power assisted mechanical rack and pinion, 3.2 turns lock to lock",
+          "turningCircle": "13 m / 43 ft",
+          "frontTireSize": "235/35 ZR 18",
+          "rearTireSize": "335/30 ZR 18",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×18 inch",
+          "rearWheel": "13×18 inch",
+          "typeOfWheel": "Split rim OZ-Racing aluminum light-alloy.",
+          "rearSpoiler": "Optional, but mostly fitted"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block with pressed-in liners, mid mounted (longitudal), rear wheel drive.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "intakeSystem": "Variable valve timing, electronically controlled.",
+          "comprRatio": "10.0",
+          "maxPower": "530 Bhp at 7100 rpm",
+          "maxTorque": "605 Nm at 5500 rpm",
+          "coolingSystem": "Pressurized water cooling with two radiators and one oil cooler.",
+          "ignition": "Electronic with integrated fuel injection",
+          "emissionContr": "Twin, three way catalytic convertors with oxygen sensors.",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Original L.I.E. Lamborghini electronic sequential phased multipoint injection with a variable Valve Timing System mounted.",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V",
+          "fuelConsumption": "16 Lit/100 Km"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, with a traction control system with four settings, ZF final drive with limited-slip differential.",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 94 Km/h or 58 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 142 Km/h or 88 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 197 Km/h or 122 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 244 Km/h or 152 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 323 Km/h or 201 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 102 Km/h or 63 Mph",
+          "finalDriveRatio": "bevel gear type, limited slip 45% Ratio : 1:2.53:1"
+        },
+        "performance": {
+          "topSpeed": "323 Km/h / 201 Mph",
+          "0–100Km/h": "3.85 sec.",
+          "standingKm": "20.10 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 238,700",
+          "currentValue": "$ 93,200 – $ 138,400"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo GT – Specs & Performance",
+        "infos": [
+          "On the 1999 Geneva Auto Show, Automobili Lamborghini SpA unveiled their latest creation, the Lamborghini Diablo GT, a limited production run of only 80 units would be available in Europe starting from September 1999, and no homologation had been obtained for the United States or any other countries.",
+          "This new Diablo GT was the result from the experience obtained from the Diablo GT2 prototype, continuing on this design the Diablo GT was created. If compared to the normal Diablo, the obvious difference was the bodywork, it became very aggressive, with a true race feeling about it. The suspension geometry was altered with an improved chassis configuration and by using more composite materials, the overall weight was lowered.",
+          "The front track was enlarged which caused the front wheel arches to be widened, and last but not least, a 6 Litre V-12 engine was installed, giving a substantial power boost compared to the already very fast Diablo SV (the GT would also be a rear wheel drive model).",
+          "Automobili Lamborghini SpA stated in their original press release the Diablo GT was the fastest production car in the world, a highly disputed statement, but with a top speed of over 338 Km/h., the Diablo GT was surely one of the fastest cars around.",
+          "Although the Diablo GT was extremely fast and nearly race track ready, it would be homologated for road use in Europe only, no official GT would be exported into the United States or Japan, but it would soon arrive on those markets too, probably by a ‘grey’ import.",
+          "The modified V-12 engine was enlarged to 5992 cc by using a stroke of 84 mm instead of the standard 80 mm on the ‘normal’ Diablo.",
+          "An ‘Individual Intake System’ was conceived by Lamborghini, by using a single throttle for each cylinder, new intake and exhaust camshafts coupled to an improved Variable Valve Timing System, the Diablo GT had 575 Bhp under the pedal.",
+          "By installing a special exhaust system with a new Lamborghini ENCS (Exhaust Noise Control System) the top speed went up to nearly 340 Km/h.",
+          "This new Diablo GT still used rear wheel drive with a five-speed manual, but the customer could specify completely customized gear ratios. The gear lever was located on the central tunnel as usual, but was now slightly tilted toward the driver for better access and to allow faster gear changes. The enlarged front track, improved suspension and tubular frame gave a more stable ride at very high speeds; the Diablo GT used new aluminum pedals on the inside and specific lightweight alloy multi piece wheels on the outside. The four power assisted, perforated disks still received a Lucas based ABS system, a front size of 355 mm and 335 mm at the rear got the Diablo GT to stop even better than the ‘standard’ Diablo.",
+          "The extremely aggressive looking bodywork of this Diablo GT was almost completely made of carbon fibre, only the roof was still made of steel and the doors were kept in aluminum. The GT also used an air intake on top of the engine cover, but on the GT it was dynamically controlled by the engine electronics, the big front spoiler was completely redesigned, incorporating a large air intake for the new front mounted oil cooler. The front wings were enlarged to cope with the larger track and the front hood now featured an air extractor, the rear bumper was radically changed and was even more wing shaped than before, and held two very big exhaust pipes mounted in the middle.",
+          "Since the backup light and the rear fog light were no longer housed in the rear bumper, because there was absolutely no place for them anymore, they were now incorporated into the outer rear light units, the fog light was positioned in the left light while the white backup light was seated in the right unit, both were accompanied by the turn signal indicators.",
+          "The big rear wing was standard issue on the Diablo GT and on this very special car, it was completely finished in a high gloss Carbon Fibre.",
+          "For the interior Lamborghini mounted special race-type bucket seats with a full four-point race harness, a new smaller size steering wheel completed the leather and Alcantara interior. By using several carbon fibre parts on the dashboard and throughout the interior, the race feeling was further enhanced, but the air condition remained standard, an attempt at keeping the Diablo GT drivable when things got hot, a dual airbag system was still available, but it was an option.",
+          "Also note that the ‘normal’ Diablo seats could also be specified when ordering the Diablo GT, if you didn’t like the full racing spec seats normally found inside the GT model.",
+          "On the September 1999 Frankfurt Auto show the Diablo GT was shown with an optionally available camera mounted underneath the rear spoiler and coupled to an Alpine Colour LCD screen mounted in the dashboard. This system allowed you to reverse the car easier, because an interior rear view mirror was useless because the central mounted air intake blocks the view; the same screen was also used for the Alpine GPS Satellite Navigation system and the HiFi installation.",
+          "Pricing was rather high at about $ 300,000, so sell your Diablo SV and start saving your bucks to secure your order at the nearest European dealer, the Diablo GT would be available from September, but orders could be fixed by the time Geneva closes its doors in March.",
+          "The price had been set at £ 207,000 and only four were destined for the UK, two of these were already sold during the UK Motor Show in April 1999. In Germany the car would be sold for a healthy DM 560.000. Pricing was set at a high level but in January 2000, just after the first deliveries were made, the entire production run was sold out, in the end Automobili Lamborghini SpA had sold exactly 83 Diablo GT, all with left-hand drive.",
+          "It is noteworthy that the Diablo GT was actually not street legal in the United States but several cars were eventually imported into the US anyway, if all these cars could be registered for road use remained a big question mark."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2010/01/lamborghini-diablo-gt.png",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diagt1.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diagt2.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diagt6.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diagt8.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diagt11.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diagt14.jpg"
+        ],
+        "general": {
+          "type": "Diablo GT",
+          "yearsBuilt": "1999",
+          "production": "83 units",
+          "chassisnr": "limited to 80 units, but 83 were built in total.",
+          "presentation": "March 1999 Geneva Auto Show, second evolution at 1999 Frankfurt",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4430 mm / 174.1 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "11115 mm / 43.82 in",
+          "frontTrack": "1610 mm / 63.27 in",
+          "rearTrack": "1670 mm / 65.63 in",
+          "groundClear": "110 mm / 4.32 in",
+          "frontOverhang": "925 mm / 36.35 in",
+          "rearOverhang": "1865 mm / 33.99 in",
+          "weight": "1460 kg / 3219 lbs",
+          "distribution": "40/60 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tube high strength alloy and composite carbon fiber components.",
+          "body": "Aluminum alloy with carbon fibre and fibreglass reïnforced plastic parts.",
+          "suspension": "Independent front & rear with parallelogram action unequal length control arms, anti-roll bar, one coil shock unit at the front two coils at the rear axle.",
+          "brakes": "All-wheel Brembo ventilated/drilled disc brakes with 4 calipers on the front brakes and 2 calipers on the rear ones, a double hydraulic circuit with servo-assistance and a Kelsey Hays/Lucas derived ABS.",
+          "front": "365 mm / 14.34 in",
+          "rear": "335 mm / 13.17 in",
+          "steeringType": "Variable power assisted mechanical rack and pinion.",
+          "frontTireSize": "245/35 ZR18",
+          "rearTireSize": "335/30 ZR 18",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×18 inch",
+          "rearWheel": "13×18 inch",
+          "typeOfWheel": "Three-piece OZ-Racing with cast aluminum hub and forged high gloss polished aluminum rim.",
+          "rearSpoiler": "A carbon fiber, adjustable rear spoiler was standard."
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block with magnesium intakes, mid mounted (longitudal), rear wheel drive.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5992 cc / 366 ci",
+          "boreStroke": "87×84 mm",
+          "intakeSystem": "Variable valve timing, electronically controlled.",
+          "comprRatio": "10.7",
+          "maxPower": "575 Bhp at 7300 rpm",
+          "maxTorque": "630 Nm at 5500 rpm",
+          "coolingSystem": "1.2 bar pressurized water cooling with front mounted oil cooler.",
+          "ignition": "Static ignition with individual coils.",
+          "emissionContr": "Dual three way catalytic convertors with Lambda sensors.",
+          "alternator": "115 Amp",
+          "fuelSystem": "Original L.I.E. Lamborghini electronic sequential multi-point injection with a variable Valve Timing System.",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, ZF final drive with limited-slip differential.",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 99 Km/h or 61 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 151 Km/h or 94 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 204 Km/h or 127 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 257 Km/h or 160 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 338 Km/h or 210 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 107 Km/h or 66 Mph",
+          "finalDriveRatio": "bevel gear type, limited slip 45% Ratio : 1:2.41:1"
+        },
+        "performance": {
+          "topSpeed": "338 Km/h / 210 Mph",
+          "0–100Km/h": "3.90 sec.",
+          "standingKm": "20.00 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "15 Liter / 4 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 300,000",
+          "currentValue": "$ 349,000 – $ 750,000"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo VT 6.0 – Specs & Performance",
+        "infos": [
+          "When Audi AG took over the company they naturally installed their own designers to develop the successor to the successful Diablo. A worthy heir would be difficult if not impossible to create, but time was pressing, and the original design of the Diablo had not changed too much over nearly ten years.",
+          "So first thing, Luc Donckerwolcke was asked to do when taking the job of designer at Automobili Lamborghini SpA for Audi AG was to modernize the Diablo design, and make this super car last at least one more year to bridge the gap to the introduction of the new Murciélago.",
+          "Hence the Diablo VT 6.0 was born, a major development of the original Gandini design, not only on the outside but also on the inside and the underpinnings of the Lamborghini flagship. Without a doubt it was safe to say that the latest VT 6.0 model was by far the best Diablo ever, perhaps not the most exiting but surely the easiest to drive … a daily driver ?",
+          "You can’t mistake a VT 6.0 model any of the previous Diablo models, the massive front bumper now features two large air intakes, naturally the fixed headlights are still there, but that’s about the only thing, together with the doors, that was taken from the earlier models.",
+          "Big, 18 inch mono block wheels in an innovative design were mounted, reminiscent of the early five hole dial wheels of the Countach, with an impressive inward curve on the wide rear ones, initially this 6.0 Litre model was only available in VT transmission, but during the production it became obvious that some people just couldn’t do without rear wheel drive only. So on special order you could have the factory build you a Diablo 6.0 model with traction on the massive rear wheels only … just to have more fun !",
+          "Central mounted, dual exhaust the size of an adult tree were used to help the new 6.0 litre V12 engine get rid of it’s fumes, naturally this engine was based on the one found in the limited edition GT model from 1999, and a further development of this engine will again be used for the successor to the Diablo.",
+          "With a power output of 550 Bhp directly from the factory, the Diablo VT 6.0 was again to be considered a major competitor in the super car league, and Automobili Lamborghini SpA focused all their resources on this final Diablo model and the successor, all other models in the range were halted, no more Roadster or SV models were offered.",
+          "The magnificent, classic yet still fresh bodywork of the Diablo VT 6.0 was mainly made up of Carbon Fibre on this model, clearly visible when you open the engine lid, the inside is shining Carbon, no mistake about that.",
+          "On the inside things were modified too, the pedals were now mounted slightly differently allowing more space around them, a massive Carbon Fibre central console was sure to draw a lot of attention while the new steering wheel with down ward facing spokes reminds us of the early 350 GTV model with similar spokes.",
+          "Also a totally new air-conditioning system was mounted, allowing the cabin to have a more than decent ‘cooling’ when the V12 was putting some sweat in your palms.",
+          "We must admit that this final Diablo evolution was a very nice ‘improvisation’ by Automobili Lamborghini SpA, the successor, which would become the Murciélago we would later discover, wasn’t ready yet in 2000, so an intermediate solution was to be found to keep the factory running, and it did run.",
+          "The Diablo VT 6.0 model sold very well for a temporary model, and several hundreds were built, eventually even a limited edition SE model, before the new Murciélago took over the position of flagship at Sant’Agata."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2000/01/Lamborghini-Diablo-VT-6.0.png",
+          "https://www.lambocars.com/wp-content/uploads/2000/01/dia6070.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2000/01/dia601.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2000/01/dia602.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2000/01/dia605.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2000/01/dia606.jpg"
+        ],
+        "general": {
+          "type": "Diablo VT 6.0",
+          "yearsBuilt": "2000 – 2001",
+          "presentation": "January 2000 – Detroit Auto Show",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Original Diablo design by Marcello Gandini VT 6.0 redesign by Luc Donckerwolcke",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4470 mm / 175.67 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1105 mm / 43.43 in",
+          "frontTrack": "1610 mm / 63.27 in",
+          "rearTrack": "1670 mm / 65.63 in",
+          "groundClear": "140 mm / 5.5 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "880 mm / 34.58 in",
+          "weight": "1652 kg / 3643 lbs",
+          "distribution": "41/59 % front / rear"
+        },
+        "chassis": {
+          "structure": "Steel rectangular tube high strength alloy and composite carbon fiber.",
+          "body": "Aluminum alloy and hand layup composite materials with autoclave technology (cx : 0.31)",
+          "suspension": "Independent front & rear double wishbones, coil springs. Parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry. Electronic shock absorber system with automatic and manual control system.",
+          "brakes": "All-wheel Brembo self-ventilated and perforated disc brakes with aluminium alloy four cylinder calipers. An H-type hydraulic circuit, servo-assistance and a Kelsey Hays / Lucas Varity ABS were standard issue.",
+          "front": "365 mm / 14.34 in",
+          "rear": "335 mm / 13.17 in",
+          "steeringType": "Power assisted mechanical rack and pinion, 3.2 turns lock to lock.",
+          "turningCircle": "13 m / 43 ft",
+          "frontTireSize": "235/35 ZR 18",
+          "rearTireSize": "335/30 ZR 18",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×18 inch",
+          "rearWheel": "13×18 inch",
+          "typeOfWheel": "Single Cast OZ-Racing aluminum light-alloy",
+          "rearSpoiler": "Optional"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block with pressed-in liners, mid mounted (longitudal), Viscous Traction four wheel drive",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5992 cc / 366 ci",
+          "boreStroke": "87×84 mm",
+          "intakeSystem": "Electronic controlled intake variable Valve Timing System",
+          "comprRatio": "10.7",
+          "maxPower": "550 Bhp at 7100 rpm",
+          "maxTorque": "620 Nm at 5500 rpm",
+          "coolingSystem": "pressurized water cooling (1.2 bar), thermostatic valve, with 2 radiators ‘in parallel’, electric fans and a front mounted oil cooler",
+          "ignition": "Electronic static with individual coils and integrated fuel injection",
+          "fuelConsumption": "16 Lit/100 Km",
+          "emissionContr": "Three way catalytic convertors with oxygen sensors",
+          "alternator": "14 V, 115 A",
+          "fuelSystem": "Speed density, original L.I.E. Lamborghini electronic sequential phased multipoint injection",
+          "fuelType": "Premium unleaded 95 R.O.N.",
+          "lubrication": "Gear type pump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, ZF final drive with limited-slip differential",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 98 Km/h or 61 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 149 Km/h or 93 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 202 Km/h or 125 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 256 Km/h or 159 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 335 Km/h or 208 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 107 Km/h or 66 Mph",
+          "frontDifferential": "bevel gear type, limited slip 25% Ratio 1:2.81:1",
+          "rearDifferential": "bevel gear type, limited slip 45% Ratio : 1:2.41:1"
+        },
+        "performance": {
+          "topSpeed": "335 Km/h / 208 Mph",
+          "0–100Km/h": "3.95 sec.",
+          "standingKm": "20.50 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 274,900",
+          "currentValue": "$ 143,100 – $ 249,000"
+        }
+      },
+      {
+        "title": "Lamborghini Diablo VT 6.0 – Specs & Performance",
+        "infos": [
+          "When the new Diablo was presented to the public back in January 1990, the late Mr Malcolm Forbes was present in Monte Carlo, he actually was Grand Marchall for that occasion.",
+          "He was so pleased with the Diablo, he ordered one to be finished in custom ‘money green’ over a gold leather interior. The car was built by Automobili Lamborghini SpA, but it was finished in ‘Verde Gonna Mica” over a Champaign leather interior, the ‘gold’ interior was dropped because they apparently couldn’t get the leather in the quality required.",
+          "Unfortunately, by the time this special car was finished, Mr Malcolm Forbes had already passed away, so he never actually took delivery of this custom ordered Diablo.",
+          "The car, bearing chassis number 12231 was eventually shipped to Hawaii, were it remained in storage for several years, the Diablo was then purchased by another Lamborghini enthusiast and was shipped to the United States mainland, the new owner had the car very well maintained which explained why the car was still in ‘as new’ condition after nine years. During an auction in February 2000, the car was available for sale, but the reserve bid wasn’t attained and the car remained unsold.",
+          "This Malcolm Forbes special had several unique features, not found on any other Lamborghini Diablo, like the custom made floor mats, with a raging bull emblem combined with the Forbes logo. Also on the central transmission tunnel, an small engraved plate was mounted stating the chassis number and the Malcolm Forbes name as the first owner of this custom made exotic.",
+          "Another less well visible feature was found underneath the engine hood, the cover over the fuel injectors, the Lamborghini scripting on both valve covers and the injectors themselves were also finished in the light green metallic exterior color, a very nice looking detail.",
+          "As far as we know the car still exists today, it has recently been photographed in a Lamborghini workshop in the United States, still looking as fresh as when it was offered for auction back in 2000 … which can only mean the current owner takes care of this rare Lamborghini."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2021/03/Lamborghini-The-Malcolm-Forbes-Diablo.png",
+          "https://www.lambocars.com/wp-content/uploads/2006/06/diablomf1.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2006/06/diablomf3.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2006/06/diablomf10.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2006/06/diablomf14.jpg"
+        ]
+      },
+      {
+        "title": "Lamborghini Diablo SE30 – Specs & Performance",
+        "infos": [
+          "In 1988, Lamborghini built the Countach Anniversario, to celebrate the 25 years of the founding of Automobili Lamborghini SpA, in 1993 Lamborghini again designed and built a special car to celebrate their 30th anniversary, the Diablo SE30 was presented during the third Lamborghini Day in September 1993 in Sant’Agata, surrounded by about 140 other Lamborghini’s from all over the world.",
+          "The Diablo SE, where SE stands for Special Edition, could easily be called the sportiest car Lamborghini built in a long time, mainly because the SE was meant to be entered in GT-championships around the world by installing the JOTA upgrade kit on it.",
+          "That is why a lot of weight was saved in the design; the side windows were replaced by synthetic glass and only a small portion of them opened by turning a knob inside the door, no more power windows for the Diablo SE.",
+          "The rest of the interior was completely race orientated, but it still looked rather elegant.",
+          "The seats and the dashboard received a standard upholstery in blue Alcantara leather, which was combined with carbon fiber, white dials and perforated, aluminum pedals.",
+          "The dashboard came straight out of the VT, but in the SE, there was no air-conditioning, no radio nor CD-player, but in their place, you would find a red button, which activated an automatic fire extinguisher system underneath the engine hood, in case it got too hot.",
+          "There was also a system installed to adjust the anti-roll bars from inside the cockpit, by using the right setting you could increase the speed in a turn with 2 to 3 Km/h.",
+          "The small Carbon Fiber seat would grab you and thanks to the special upholstery, you would not move an inch in them because the four-point harness with 30th anniversary logo’s held you very tight. The steering wheel was also modified, it became smaller and the bottom part of it was flat, to ease the entry into the car, but since the power-steering had been abandoned, the small steering wheel wasn’t easy to turn, although the badge used on this new steering wheel was exactly the same as the one used inside the 350 GTV thirty years ago.",
+          "On the outside, things also changed a lot; some visible, but other changes were less well visible. Most of the bodywork was still made of aluminum panels, but several parts were made of Carbon Fiber, like the side-air-intakes and surrounding bodywork.",
+          "The front spoiler was redesigned, now a little deeper, with two new, bigger air-intakes with a horizontal grill in them. This spoiler was also a bit wider than the original one to counter-act possible turbulence at the front wheels. The side air intakes now used two vertical ducts to lead the airflow to two bigger oil-coolers.",
+          "A rear spoiler was standard issue on the SE, the spoiler drops toward the bodywork at both sides, while the central part of it was adjustable, for exact down force at high speeds. The rear engine hood was also redesigned, and now resembled the one used for the Miura during the Sixties. To finish the exterior restyling, the rear bumper/spoiler received another profile, now incorporating the rear-backup light and the fog-light, while the grill between the rear lights held the raging bull emblem and a 30th anniversary logo.",
+          "When you opened the engine hood, you were in for a surprise, the top of the engine was finished in black and gold-color, but the best was still to come.",
+          "Thanks to lowering the weight of the engine by using magnesium for the intake manifolds and the modified cylinder heads, reprogramming the Lamborghini LIE electronic injection and the use of a free-flow exhaust system, this car pumped out 525 Bhp at 7000 rpm. This power increase, together with a 125 Kg decrease in weight, gave the new Diablo SE staggering performance figures, 0-100 Km/h. in only 4.0 sec and a top speed of 331 Km/h.",
+          "The electronically adjustable suspension from the VT had been abandoned on this pure sports car, and a ‘normal’ suspension was used, they even managed to improve the Diablo road holding capabilities. On the actual production Diablo SE, Lamborghini would include a standard traction control system with four settings, one of which could simply turn the system off.",
+          "Automobili Lamborghini only offered the rear-wheel drive version in this special edition and the very big tires at the rear became even bigger. Lamborghini had OZ-Racing, their rim supplier, design an all-new wheel in one piece with the same five-hole design as the original three-piece rim, but this time the rims were made of an ultra-light magnesium compound, and the rear ones became a whopping 18-inch now, mounted with Pirelli P Zero 335/30 ZR 18 tires, the front dimensions of rim and tire remained the same as on the VT-version.",
+          "Still there was no ABS system on the Diablo, but the disk brakes became bigger and were perforated.",
+          "Probably the only setback of the Diablo SE could be found in the exterior color, the prototype was finished in a strange, new Lavender metallic color, it looked good, but a real ‘race’ Lamborghini should be finished in Rosso Corsa or Fly Yellow according to some fans, however, this very special color made the Diablo SE30 look even more exotic than any other Diablo model made.",
+          "The Diablo SE was available for delivery starting from June 1994, but you had to be fast, only 150 SE would be built and about 15 of these were later converted to Diablo Jota specifications (see the JOTA page on this site).",
+          "Sure, the Diablo SE30 had a list price about 15% higher than the Diablo VT, but it was a rock solid investment, the price only went up once they were all sold. The very last Diablo SE 30 was finished in white and went to a Middle Eastern dealer and actually left the factory in Italy on November 26 1995.",
+          "The images of the metallic green SE on this page show a rather special car, this one was finished in a custom ordered color scheme. Automobili Lamborghini SpA offered their customers this exclusive service called ‘Carte Blanche’, your car could be finished in any color available and any interior finish was possible, normally the SE30 interior was finished in a magnificent Alcantara, but this specific car had beautiful Italian leather upholstery, note that most SE that were ordered by US customers were also finished with a leather interior instead of the luxurious alcantara.",
+          "Note that a German tuner, Rogalla, actually offered a special Turbo Charger for the Diablo SE models, boosting power to a healthy 625 Hp it would push the Special Edition Diablo to a top speed of 343 Km/h, the entire installation would be done at the Rogalla workshop and could take about three to four weeks to mount, a rather interesting alternative to the very ‘hot-headed’ Jota upgrade kit from the factory."
+        ],
+        "pictures": [
+          "https://www.lambocars.com/wp-content/uploads/2010/01/lamborghini-diablo-se30.png",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diase1.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diase2.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diase6.jpg",
+          "https://www.lambocars.com/wp-content/uploads/2010/01/diase11.jpg"
+        ],
+        "general": {
+          "type": "Diablo SE30",
+          "yearsBuilt": "First deliveries June 1994",
+          "production": "ZA9DE27AOR LA12000 – ZA9DE27AOR LA12150",
+          "chassisnr": "September 23rd, 1993 3rd Lamborghini Day at Sant’Agata",
+          "presentation": "March 1698 Geneva Auto Show",
+          "typeOfCar": "Two door coupe, two seater berlinetta, horizontally hinged doors",
+          "designedBy": "Marcello Gandini",
+          "builtBy": "Automobili Lamborghini SpA"
+        },
+        "dimensions": {
+          "wheelbase": "2650 mm / 104.15 in",
+          "overallLength": "4460 mm / 175.28 in",
+          "overallWidth": "2040 mm / 80.17 in",
+          "overallHeight": "1105 mm / 43.43 in",
+          "frontTrack": "1540 mm / 60.52 in",
+          "rearTrack": "1640 mm / 64.45 in",
+          "groundClear": "140 mm / 5.5 in",
+          "frontOverhang": "930 mm / 36.55 in",
+          "rearOverhang": "880 mm / 34.58 in",
+          "weight": "1451 kg / 3199 lbs",
+          "distribution": "41/59 % front / rear"
+        },
+        "chassis": {
+          "structure": "High resistance steel and composite carbon fiber.",
+          "body": "Aluminum alloy and hand layup composite materials (cx : 0.31)",
+          "suspension": "Independent front & rear with parallelogram action unequal length wishbones, anti-roll bar and front anti-dive / anti-squat geometry.",
+          "brakes": "All-wheel Brembo ventilated disc brakes with an H-type hydraulic circuit and servo-assistance.",
+          "front": "330 mm / 12.97 in",
+          "rear": "284 mm / 11.16 in",
+          "steeringType": "Unassisted mechanical rack and pinion. 3.2 turns lock to lock",
+          "turningCircle": "11 m / 36 ft",
+          "frontTireSize": "245/40 ZR 17",
+          "rearTireSize": "335/35 ZR 18",
+          "typeOfTire": "Pirelli P ZERO with asymmetric unidirectional tread",
+          "frontWheel": "8,5×17 inch",
+          "rearWheel": "13×18 inch",
+          "typeOfWheel": "Single-piece OZ-Racing Magnesium Compound.",
+          "rearSpoiler": "Standard"
+        },
+        "engine": {
+          "type": "V-12 60 degree, light-alloy block with pressed-in liners, mid mounted (longitudal), rear wheel drive with traction control.",
+          "distribution": "Dual overhead camshafts, chain drive, four valves/cylinder",
+          "mainBearings": "7",
+          "cylCapacity": "5707 cc / 348 ci",
+          "boreStroke": "87×80 mm",
+          "comprRatio": "10.0",
+          "maxPower": "525 Bhp at 7000 rpm",
+          "maxTorque": "580 Nm at 5200 rpm",
+          "coolingSystem": "Pressurized water cooling",
+          "ignition": "Electronic with integrated fuel injection",
+          "emissionContr": "‘Free-flow’ exhaust system",
+          "alternator": "85/115 Amp",
+          "fuelSystem": "Reprogrammed L.I.E. Lamborghini electronic sequential multi-point injection",
+          "fuelType": "Unleaded 95 R.O.N.",
+          "lubrication": "Dry sump",
+          "electrSystem": "12 V"
+        },
+        "drivetrain": {
+          "type": "Lamborghini five-speed + reverse manual all-synchromesh, with a traction control system with four settings, ZF final drive with limited-slip differential.",
+          "clutch": "Dry-single plate, hydraulically operated",
+          "discDiameter": "254 mm / 9.98 in",
+          "1stGearRatio": "2.310:1 – Max speed 98 Km/h or 61 Mph",
+          "2ndGearRatio": "1.520:1 – Max speed 154 Km/h or 96 Mph",
+          "3rdGearRatio": "1.120:1 – Max speed 209 Km/h or 130 Mph",
+          "4thGearRatio": "0.880:1 – Max speed 266 Km/h or 165 Mph",
+          "5thGearRatio": "0.680:1 – Max speed 333 Km/h or 207 Mph",
+          "reverseGearRatio": "2.120:1 – Max speed 102 Km/h or 63 Mph",
+          "finalDriveRatio": "2.410:1"
+        },
+        "performance": {
+          "topSpeed": "333 Km/h / 207 Mph",
+          "0–100Km/h": "4.00 sec.",
+          "standingKm": "20.70 sec."
+        },
+        "capacities": {
+          "fuel": "100 Liter / 26 Gallon",
+          "engineOil": "13 Liter / 3 Gallon",
+          "coolingSystem": "15 Liter / 4 Gallon",
+          "luggage": "140 Liter / 37 Gallon"
+        },
+        "pricing": {
+          "uSMSRP": "USD 275,000",
+          "currentValue": "$ 75,000 – $ 126,500"
+        }
+      }
+    ]
   }
